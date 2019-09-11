@@ -5,3 +5,4 @@ class Dog
     @name
   
 end
+
